@@ -15,7 +15,7 @@ def cramers_v(x, y):
 
 def run():
     # read file
-    df_eda = pd.read_csv('src/df_eda.csv')
+    df_eda = pd.read_csv('df_eda.csv')
     # create new column
     df_eda['TenureCategory'] = ''
 
