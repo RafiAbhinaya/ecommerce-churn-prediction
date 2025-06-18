@@ -6,7 +6,7 @@ import streamlit as st
 # run function
 def run():
     # load model
-    with open('src/final_model.pkl', 'rb') as file:
+    with open('final_model.pkl', 'rb') as file:
         model = cloudpickle.load(file)
 
     # show title
