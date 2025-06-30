@@ -2,11 +2,11 @@
 
 ## Repository Outline
 This repository consists of these following files:
-- notebook.ipynb - Notebook documenting the EDA and model training.
-- E Commerce Dataset.xsls - Dataset used for EDA and model training.
-- final_model.pkl - The chosen model after evaluation
-- url.txt - link to deployment
-- deployment - directory to store files for deployment
+- [notebook.ipynb](notebook.ipynb) - Notebook documenting the EDA and model training.
+- [E Commerce Dataset.xlsx](ECommerceDataset.xlsx) - Dataset used for EDA and model training.
+- [final_model.pkl](final_model.pkl) - The chosen model after evaluation
+- [url.txt](url.txt) - link to deployment
+- [deployment](deployment) - directory to store files for deployment
 
 ## Problem Background
 In e-commerce, retaining customers is just as important as attracting new ones, as customers are the main source of revenue. When users stop purchasing through the platform—a phenomenon called churn—the company risks losing significant income. To minimize churn, businesses can predict which customers are likely to leave and take proactive steps to retain them. Building a churn prediction program can therefore help improve customer retention and protect revenue.
