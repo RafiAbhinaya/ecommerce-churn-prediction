@@ -17,7 +17,7 @@ def cramers_v(x, y):
 # fucntion to run file
 def run():
     # read file
-    df_eda = pd.read_csv('df_eda.csv')
+    df_eda = pd.read_csv('deployment/df_eda.csv')
 
     # create new column
     df_eda['TenureCategory'] = ''
